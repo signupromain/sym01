@@ -23,3 +23,23 @@ Create the file README in GIT
 ##6 update libraries
 $ composer update
 
+##8 structure
+Controller frontal: public/index.php
+Controllers: src/Controllers
+Models: src/Entity
+Views: templates/
+
+##9 file type best practice
+yaml => configuration
+Routing => annotations 
+Datas => json or other
+
+##10 add controller
+$ php bin/console make:controller
+Add MyFirstController to src/controller
+Add my_first to templates
+
+##11 view controller
+Find the controller online. 
+Check file the path error 404 => Routing
+http://127.0.0.1:8000/my/first
