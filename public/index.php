@@ -1,4 +1,3 @@
-/*controller frontal*/
 <?php
 
 use App\Kernel;
