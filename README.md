@@ -19,3 +19,7 @@ php bin/console server:run
 
 ##5 creating README.md
 Create the file README in GIT
+
+##6 update libraries
+$ composer update
+
