@@ -1,3 +1,10 @@
+###> PhpStorm ###
+/.idea/
+###< PhpStorm ###
+
+###> Netbeans ###
+/nbproject/
+###< Netbeans ###
 
 ###> symfony/framework-bundle ###
 /.env
